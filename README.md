@@ -6,8 +6,8 @@
 
 | Keterangan | Data |
 | :--- | :--- |
-| **Nama** | Muhammad Alfath Mavianza |
-| **NIM** | F1D02310077 |
+| **Nama** | Andra Aufarisque Djayadi |
+| **NIM** | F1D02310036 |
 | **Kelas** | A |
 | **Mata Kuliah** | Pemrograman Bergerak |
 | **Tugas** | Tugas 5 - Login API dan Data Pasien |
@@ -66,3 +66,9 @@ com.example.aplikasipasien
     ├── LoginActivity.kt
     ├── MainActivity.kt
     └── PasienAdapter.kt
+```
+
+## Screenshots
+Halaman Login | Daftar Pasien |
+| :---: | :---: |
+| <img src="screenshots/screenshot-login.png" width="250"> | <img src="screenshots/screenshot-pasien.png" width="250"> |
